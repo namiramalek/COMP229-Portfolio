@@ -20,7 +20,7 @@
     "morgan": "~1.9.1"
   },
   "description": "website for assignment of comp229",
-  "main": "index.js",
+  "main": "app.js",
   "devDependencies": {},
   "repository": {
     "type": "git",
